@@ -1,1 +1,1 @@
-Create and setup your Git and GitHub account
+Create and setup your GitHub account
